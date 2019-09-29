@@ -16,6 +16,7 @@ frb = "*"
 statsmodels = "*"
 scipy = "*"
 modin = "*"
+pulp = "*"
 
 
 [dev-packages]
